@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arvore-binaria", "arvore-binaria.csproj", "{1A8FA156-65E2-4A68-A6EE-7970ED0F576A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8FA156-65E2-4A68-A6EE-7970ED0F576A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8FA156-65E2-4A68-A6EE-7970ED0F576A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8FA156-65E2-4A68-A6EE-7970ED0F576A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8FA156-65E2-4A68-A6EE-7970ED0F576A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46302A86-F970-432F-9675-B29D584A64A4}
+	EndGlobalSection
+EndGlobal
